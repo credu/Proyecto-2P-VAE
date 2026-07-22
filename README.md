@@ -20,4 +20,4 @@ Puede probar el código utilizando Google Colab con el siguiente enlace:
 
 **[Abrir Notebook en Google Colab](https://drive.google.com/file/d/1pnlMIT0mIAfoQUFibXBO6J5spDFetNb4/view?usp=sharing)**
 
-> **Nota:** Para la ejecución del codigo es necesario configurar el entorno de ejecución para que utilice una **GPU (T2/T4)**.
+> **Nota:** Para la ejecución del codigo es necesario configurar el entorno de ejecución para que utilice una **GPU (T2/T4)**
